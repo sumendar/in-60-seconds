@@ -530,7 +530,7 @@ All elements in the array must be of the same data type, means either character 
 Arrays can be defined by
 
 **array(data = NA, dim = length(data), dimnames = NULL)**
-
+---
 **Examples: **
 
 ```r
@@ -624,7 +624,7 @@ myDataFrame$Present # Access Present Variable from the data frame
 ```
 ## [1]  TRUE  TRUE  TRUE FALSE
 ```
-
+---
 ### Lists  
 
 Up to here we are familiar with Vectors, Matrices, Arrays and Data frames  
